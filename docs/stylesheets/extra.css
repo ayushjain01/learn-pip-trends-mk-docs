@@ -12,7 +12,12 @@
   {
     color: #76C2AF;
   }
-
+  .md-typeset h1{
+    font-weight: 550;
+  }
+  .md-typeset h2{
+    font-weight: 400;
+  }
 .footer {
   font-size: medium;
 
