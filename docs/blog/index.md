@@ -1,4 +1,2 @@
----
-title: Blogs
----
-# Coming Soon
+# Blog
+
